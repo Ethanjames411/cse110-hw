@@ -4,8 +4,7 @@ Autho: Ethan James Walker
 Purpose: Display Text to the Screen
 """
 
-import email
-from tkinter import LAST
+
 
 
 print("Please enter the following information:")
