@@ -1,5 +1,8 @@
 <Solution>
-  <Project Path="cse110-hw/cse110-hw.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="cse110-hw/cse110-hw.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="fb046fa6-59ce-4513-98b8-5132e058d40c">
     <Build Project="false" />
   </Project>
 </Solution>
