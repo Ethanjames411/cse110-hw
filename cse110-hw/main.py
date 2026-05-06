@@ -1,7 +1,7 @@
 """
-Autho: Ethan James Walker
+Author: Ethan James Walker
 
-Purpose: Display Text to the Screen
+Purpose: ID badge Generator
 """
 
 
