@@ -8,7 +8,7 @@ import email
 from tkinter import LAST
 
 
-print("Please enter the following information:")
+print("Please enter the following information: ")
 
 first_name = input("What is your First name? ")
 last_name = input("what is your Last name? ")
