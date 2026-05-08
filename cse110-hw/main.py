@@ -1,11 +1,10 @@
 """
-Autho: Ethan James Walker
+Author: Ethan James Walker
 
-Purpose: Display Text to the Screen
+Purpose: ID badge Generator
 """
 
-import email
-from tkinter import LAST
+
 
 
 print("Please enter the following information: ")
